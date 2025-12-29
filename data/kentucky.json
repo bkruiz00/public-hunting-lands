@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ky-peabody-wma",
+    "name": "Peabody Wildlife Management Area",
+    "state": "KY",
+    "type": "Wildlife Management Area",
+    "manager": "Kentucky Fish & Wildlife",
+    "county": ["Webster", "Ohio"],
+    "latitude": 37.4723,
+    "longitude": -87.6664,
+    "source": "KDFWR"
+  }
+]
