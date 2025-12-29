@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usfs-daniel-boone-nf",
+    "name": "Daniel Boone National Forest",
+    "state": "KY",
+    "type": "National Forest",
+    "manager": "US Forest Service",
+    "county": [],
+    "latitude": 37.328,
+    "longitude": -83.695,
+    "source": "USFS"
+  }
+]
