@@ -13,23 +13,19 @@ function loadState(stateCode) {
 }
 
 function render(data) {
-  wmaLayer.clearLayers();
   const tbody = document.querySelector("#table tbody");
-  tbody.innerHTML = "";
 
   data.forEach(item => {
-    if (!item.latitude || !item.longitude) return;
-
     let row = tbody.insertRow();
     row.innerHTML = `
       <td>${item.name}</td>
-      <td>${item.type || "WMA"}</td>
-      <td>${item.county ? item.county.join(", ") : ""}</td>
+      <td>${item.type}</td>
+      <td>${item.county.join(", ")}</td>
     `;
 
     let marker = L.marker([item.latitude, item.longitude])
-      .addTo(wmaLayer)
-      .bindPopup(`<b>${item.name}</b><br>${item.type || "WMA"}`);
+      .addTo(map)
+      .bindPopup(`<b>${item.name}</b><br>${item.type}`);
 
     row.onclick = () => {
       map.setView([item.latitude, item.longitude], 11);
@@ -37,7 +33,3 @@ function render(data) {
     };
   });
 }
-
-
-
-
