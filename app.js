@@ -18,7 +18,7 @@ function render(data) {
   tbody.innerHTML = "";
 
   data.forEach(item => {
-    if (!item.lat || !item.lng) return;
+    if (!item.latitude || !item.longitude) return;
 
     let row = tbody.insertRow();
     row.innerHTML = `
@@ -37,6 +37,7 @@ function render(data) {
     };
   });
 }
+
 
 
 
