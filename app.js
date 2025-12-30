@@ -27,15 +27,16 @@ function render(data) {
       <td>${item.county ? item.county.join(", ") : ""}</td>
     `;
 
-    let marker = L.marker([item.lat, item.lng])
+    let marker = L.marker([item.latitude, item.longitude])
       .addTo(wmaLayer)
       .bindPopup(`<b>${item.name}</b><br>${item.type || "WMA"}`);
 
     row.onclick = () => {
-      map.setView([item.lat, item.lng], 11);
+      map.setView([item.latitude, item.longitude], 11);
       marker.openPopup();
     };
   });
 }
+
 
 
