@@ -1,19 +1,19 @@
 [
-  {"id":"ky-ballard-wma","name":"Ballard Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Ballard"],"latitude":37.1821,"longitude":-89.0271,"source":"KDFWR"},
+  {"id":"ky-ballard-wma","name":"Ballard Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Ballard"],"latitude":37.182,"longitude":-89.027,"source":"KDFWR"},
   
-  {"id":"ky-barren-river-lake-wma","name":"Barren River Lake Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Allen","Barren","Monroe"],"latitude":36.8777,"longitude":-86.0556,"source":"KDFWR"},
+  {"id":"ky-barren-river-lake-wma","name":"Barren River Lake Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Allen","Barren","Monroe"],"latitude":36.877,"longitude":-86.055,"source":"KDFWR"},
   
-  {"id":"ky-beaver-creek-wma","name":"Beaver Creek Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["McCreary"],"latitude":36.8889,"longitude":-84.4940,"source":"KDFWR"},
+  {"id":"ky-beaver-creek-wma","name":"Beaver Creek Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["McCreary"],"latitude":36.888,"longitude":-84.494,"source":"KDFWR"},
   
-  {"id":"ky-beechy-creek-wma","name":"Beechy Creek Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Muhlenberg"],"latitude":36.5577,"longitude":-88.1326,"source":"KDFWR"},
+  {"id":"ky-beechy-creek-wma","name":"Beechy Creek Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Muhlenberg"],"latitude":36.557,"longitude":-88.132,"source":"KDFWR"},
   
-  {"id":"ky-big-rivers-wma","name":"Big Rivers Wildlife Management Area & State Forest","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Crittenden","McCracken"],"latitude":37.5454,"longitude":-88.0287,"source":"KDFWR"},
+  {"id":"ky-big-rivers-wma","name":"Big Rivers Wildlife Management Area & State Forest","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Crittenden","McCracken"],"latitude":37.545,"longitude":-88.028,"source":"KDFWR"},
   
-  {"id":"ky-blackford-oaks-wma","name":"Blackford Oaks Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Webster"],"latitude":37.4263,"longitude":-87.8649,"source":"KDFWR"},
+  {"id":"ky-blackford-oaks-wma","name":"Blackford Oaks Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Webster"],"latitude":37.426,"longitude":-87.864,"source":"KDFWR"},
   
-  {"id":"ky-boatwright-wma","name":"Boatwright Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Ballard"],"latitude":37.0095,"longitude":-89.1218,"source":"KDFWR"},
+  {"id":"ky-boatwright-wma","name":"Boatwright Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Ballard"],"latitude":37.009,"longitude":-89.121,"source":"KDFWR"},
 
-  {"id":"ky-cane-creek-wma","name":"Cane Creek Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Bell"],"latitude":36.9975,"longitude":-84.2848,"source":"KDFWR"},
+  {"id":"ky-cane-creek-wma","name":"Cane Creek Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Bell"],"latitude":36.997,"longitude":-84.284,"source":"KDFWR"},
   
   {"id":"ky-cedar-creek-lake-wma","name":"Cedar Creek Lake Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Lincoln"],"latitude":37.450,"longitude":-84.800,"source":"KDFWR"},
   
@@ -98,11 +98,12 @@
   {"id":"ky-tradewater-wma","name":"Tradewater Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Hopkins"],"latitude":37.350,"longitude":-87.550,"source":"KDFWR"},
   {"id":"ky-twin-eagle-wma","name":"Twin Eagle Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Scott"],"latitude":38.250,"longitude":-84.580,"source":"KDFWR"},
 
-  {"id":"ky-veterans-wma","name":"Veterans Memorial Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Grayson"],"latitude":38.3038,"longitude":-84.5570,"source":"KDFWR"},
+  {"id":"ky-veterans-wma","name":"Veterans Memorial Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Grayson"],"latitude":38.303,"longitude":-84.557,"source":"KDFWR"},
 
   {"id":"ky-west-kentucky-wma","name":"West Kentucky Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Livingston"],"latitude":37.390,"longitude":-88.010,"source":"KDFWR"},
   {"id":"ky-winford-wma","name":"Winford Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Lyon"],"latitude":37.420,"longitude":-88.200,"source":"KDFWR"},
   {"id":"ky-yatesville-lake-wma","name":"Yatesville Lake Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Lawrence"],"latitude":38.140,"longitude":-82.730,"source":"KDFWR"},
   {"id":"ky-yellowbank-wma","name":"Yellowbank Wildlife Management Area","state":"KY","type":"Wildlife Management Area","manager":"Kentucky Fish & Wildlife","county":["Daviess"],"latitude":37.770,"longitude":-87.130,"source":"KDFWR"}
 ]
+
 
